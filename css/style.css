@@ -1,3 +1,27 @@
+
+
+.colore {
+    height: 100%;
+    width: 100%;
+    padding: 5px;
+}
+
 .blu {
-    background-color: blue;
+    background-color: skyblue;
+}
+
+.rosso {
+    background-color: rgb(190,57,43);
+}
+
+.verde  {
+    background-color: rgb(20,170,150);
+}
+
+.giallo {
+    background-color: rgb(240,155,20);
+}
+
+.row .row {
+    width: 90%;
 }
